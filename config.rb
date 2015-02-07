@@ -20,6 +20,10 @@ activate :blog do |blog|
   blog.permalink = '/:title'
 end
 
+activate :livereload do |livereload|
+  livereload.host = Socket.ip_address_list.detect{|intf| intf.ipv4_private?}.ip_address
+end
+
 activate :syntax, :line_numbers => true
 
 set :markdown_engine, :redcarpet
