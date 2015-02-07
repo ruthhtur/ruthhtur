@@ -1,15 +1,3 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Ruth Buchanan">
-    <meta name="description" content="Personal website of Ruth Buchanan">
-    <title>ruthhtur</title>
-    <%= stylesheet_link_tag "all" %>
-  </head>
-
-  <body class="<%= page_classes %>">
-    <%= yield %>
-  </body>
-</html>
+<% wrap_layout :base do %>
+  <%= yield %>
+<% end %>
