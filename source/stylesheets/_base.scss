@@ -29,7 +29,7 @@ body {
 .page {
   width: 784px;
   width: 700px;
-  padding: 2rem 0;
+  padding: 0;
   // margin: 0 auto;
 }
 
@@ -73,6 +73,38 @@ a:visited:hover, a:visited:active {
 
 header[role="banner"] {
   padding: 0 2rem;
+}
+
+header[role="banner"] {
+  border-bottom: .2rem solid $support-color;
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+  padding-bottom: .8rem;
+
+  .mark, nav { display: inline; }
+}
+
+.mark {
+  text-transform: lowercase;
+  font-family: $font-stack-ui;
+  letter-spacing: .15em;
+
+  // &:after {
+  //   content: '§';
+  //   display: inline-block;
+  //   padding: 0 1rem;
+  // }
+}
+
+.mark a, .mark a:visited {
+  background-color: $primary-color;
+  color: white;
+  padding: 0 .3em;
+  text-decoration: none;
+}
+
+nav {
+  margin-left: 2rem;
 }
 
 nav a, nav a:visited {
@@ -149,7 +181,7 @@ time {
   font-size: .9rem;
   // font-variant: small-caps;
   font-weight: 400;
-  letter-spacing: .1em;
+  // letter-spacing: .1em;
 }
 
 

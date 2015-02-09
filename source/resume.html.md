@@ -21,7 +21,7 @@ title: Work & experience
 
 <section class="resume-item">
   <header>
-    <h1><a href="http://marketplace.atlassian.com">Atlassian</a> / Marketplace team</h1>
+    <h1><a href="http://marketplace.atlassian.com">Atlassian Marketplace</a></h1>
     <p>May 2013–present, San Francisco</p>
   </header>
 
