@@ -151,3 +151,9 @@ time {
   font-weight: 400;
   letter-spacing: .1em;
 }
+
+
+article[role="main"] h1 a {
+  text-decoration: none;
+  color: $text-color-fg;
+}
