@@ -1,0 +1,149 @@
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  // font: normal 100%/1.5 $font-stack; // 16
+  // font: normal 112.5%/1.5 $font-stack; // 18
+  font: normal 131.25%/1.5 $font-stack; // 21
+
+  opacity: 0;
+
+  -webkit-transition: all .1s easy-in-out;
+          transition: all .1s ease-in-out;
+
+  &.wf-active {
+    opacity: 1;
+  }
+}
+
+body {
+  color: $text-color-fg;
+  background-color: $page-color-bg;
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  width: 784px;
+  width: 700px;
+  padding: 2rem 0;
+  // margin: 0 auto;
+}
+
+h1, h2, h3 {
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: .67em 0;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin: 1.66em 0 .83em;
+}
+
+h3 {
+  font-size: 1.169rem;
+  margin: 1em 0;
+}
+
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: $link-color-fg;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: $link-color-fg;
+}
+
+a:hover, a:active,
+a:visited:hover, a:visited:active {
+  color: $link-color-fg;
+  text-decoration: none;
+}
+
+header[role="banner"] {
+  padding: 0 2rem;
+}
+
+nav a {
+  &, &:visited {
+    color: $text-color-fg;
+    text-decoration: none;
+  }
+
+  &:hover, &:active {
+    color: $link-color-fg;
+  }
+
+  font-size: .857rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+nav a + a {
+  margin-left: 1rem;
+}
+
+.intro {
+  margin: 2rem -2rem;
+  font-style: italic;
+  // background: black;
+}
+
+.intro h1 {
+  padding: 2rem;
+  background-color: $intro-color-bg;
+  color: white;
+  margin: 0;
+}
+
+.intro p {
+  padding: 0 2rem;
+}
+
+[role="main"] {
+  padding: 0 2rem;
+}
+
+.article-list {
+
+  article h1 {
+    font-size: 1rem;
+    margin: 0;
+    display: inline-block;
+  }
+
+  article time {
+    display: inline-block;
+
+    &:before {
+      content: ' — ';
+    }
+  }
+
+  article {
+    margin-bottom: 1rem;
+  }
+}
+
+[role="main"] img {
+  max-width: 100%;
+  padding: 3px;
+  border: 1px solid white;
+  border-radius: 3px;
+}
+
+time {
+  color: $secondary-text-color-fg;
+  font-size: .75rem;
+}

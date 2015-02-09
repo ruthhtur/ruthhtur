@@ -1,0 +1,12 @@
+<% wrap_layout :base do %>
+  <%= partial "header" %>
+
+  <article role="main">
+    <header>
+      <h1><a href="<%= current_article.url %>"><%= current_article.title %></a></h1>
+      <time><%= current_article.date.strftime('%B %e %Y') %></time>
+    </header>
+
+    <%= yield %>
+  </article>
+<% end %>

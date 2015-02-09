@@ -26,6 +26,8 @@ end
 
 activate :syntax, :line_numbers => true
 
+page '/projects/*', :layout => 'layout'
+
 set :markdown_engine, :redcarpet
 
 set :markdown, :fenced_code_blocks => true, :autolink => true, :smartypants => true

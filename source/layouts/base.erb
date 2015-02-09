@@ -7,9 +7,14 @@
     <meta name="description" content="Personal website of Ruth Buchanan">
     <title>ruthhtur</title>
     <%= stylesheet_link_tag "all" %>
+    <script src="//use.typekit.net/erf3zrl.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </head>
 
   <body class="<%= page_classes %>">
-    <%= typogrify(yield) %>
+    <div class="page">
+      <%= typogrify(yield) %>
+    </div>
   </body>
 </html>

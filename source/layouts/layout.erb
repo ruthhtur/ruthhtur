@@ -1,3 +1,7 @@
 <% wrap_layout :base do %>
-  <%= yield %>
+  <%= partial "header" %>
+
+  <section role="main">
+    <%= yield %>
+  </section>
 <% end %>
