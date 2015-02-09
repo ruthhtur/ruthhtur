@@ -9,6 +9,18 @@ title: Index
 
 <section class="article-list">
   <h2>Writing</h2>
+  <% blog.articles.each do |article| %>
+    <article>
+      <h1><a href="<%= article.url %>"><%= article.title %></a></h1>
+      <time datetime="<%= article.date.strftime('%F') %>">
+        <% if article.date.year == current_year %>
+          <%= article.date.strftime('%b %d') %>
+        <% else %>
+          <%= article.date.strftime('%b %d, %Y') %>
+        <% end %>
+      </time>
+    </article>
+  <% end %>
   <article>
     <h1><a href="/usability-testing">Running a usability testing workshop</a></h1>
     <time>Dec 19, 2014</time>

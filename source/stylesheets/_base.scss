@@ -75,19 +75,18 @@ header[role="banner"] {
   padding: 0 2rem;
 }
 
-nav a {
-  &, &:visited {
-    color: $text-color-fg;
-    text-decoration: none;
-  }
+nav a, nav a:visited {
+  color: $text-color-fg;
+  text-decoration: none;
+  text-transform: lowercase;
+  // font-variant: small-caps;
+  font-family: $font-stack-ui;
+  letter-spacing: .15em;
+  // font-size: 1em;
+}
 
-  &:hover, &:active {
-    color: $link-color-fg;
-  }
-
-  font-size: .857rem;
-  letter-spacing: .1em;
-  text-transform: uppercase;
+nav a:hover, nav a:active {
+  color: $link-color-fg;
 }
 
 nav a + a {
@@ -145,5 +144,10 @@ nav a + a {
 
 time {
   color: $secondary-text-color-fg;
-  font-size: .75rem;
+  text-transform: lowercase;
+  font-family: $font-stack-ui;
+  font-size: .9rem;
+  // font-variant: small-caps;
+  font-weight: 400;
+  letter-spacing: .1em;
 }
