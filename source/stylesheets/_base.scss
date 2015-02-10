@@ -19,6 +19,9 @@ html {
   }
 }
 
+::-moz-selection { background-color: $selection-color-bg; }
+::selection { background-color: $selection-color-bg; }
+
 body {
   color: $text-color-fg;
   background-color: $page-color-bg;
