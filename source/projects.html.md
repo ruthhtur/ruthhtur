@@ -12,7 +12,6 @@ title: Projects
 
 [SurveyMonkey help center redesign](/projects/surveymonkey-help-center/)
 
-
 ## Research
 
 Purchasing lifecycle usability testing
