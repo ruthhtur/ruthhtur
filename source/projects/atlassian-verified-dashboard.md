@@ -2,11 +2,13 @@
 title: Atlassian Verified dashboard
 ---
 
+# The Atlassian Verified dashboard
+
 I created a dashboard for add-on vendors using [Atlassian User Interface, or AUI](https://docs.atlassian.com/aui/latest/index.html). I coded high-fidelity mockups, and solicited feedback from designers and developers.
 
 This dashboard conveys vendor status in relationship to [Verified program benchmarks](https://developer.atlassian.com/x/mIRjAQ). Atlassian Verified vendors uphold Atlassian standards for add-on support, Marketplace traction, and product compatibility.
 
-###Goals
+## Goals
 
 * Make individual requirement statuses obvious, so vendors can use this dashboard as a checklist on the way to becoming Verified.
 
@@ -14,13 +16,13 @@ This dashboard conveys vendor status in relationship to [Verified program benchm
 
 * On hover, show contextual tooltips that explain requirements and tips.
 
-###Design
+## Design
 
 Not pictured here are tooltips for each field that describe the requirements in more detail, so vendors have context and information without needing to leave the page.
 
 ![The dashboard](/images/verified-dashboard.jpg)
 
-###Lessons learned
+## Lessons learned
 
 The dashboard has been a success. I've implemented changes in dashboard design, email notifications, and documentation in response to direct feedback from support and vendors. In retrospect, I should have initiated this feedback loop earlier on.
 
