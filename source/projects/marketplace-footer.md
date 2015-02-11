@@ -2,13 +2,15 @@
 title: Atlassian Markeplace footer
 ---
 
+# Simplifying the footer
+
 In a prior project, I assessed the [Atlassian marketing site's footer](https://www.atlassian.com/) with two other designers. We organized topics in a spike for our internal hackathon as part of a larger project. My team proposed a footer change that eliminated non-essential information. With this background, I decided to evaluate the [Marketplace's](https://marketplace.atlassian.com/) footer to see how we could simplify information.
 
-###Marketplace footer before
+## Marketplace footer before
 
 ![The old footer](/images/beforeFooter.png)
 
-###Problems to solve
+## Problems to solve
 
 At the time of implementation, the Marketplace footer was copied directly from the marketing site. Here's what I discovered, excluding numbers I pulled from Google Analytics:
 
@@ -19,7 +21,7 @@ At the time of implementation, the Marketplace footer was copied directly from t
 * Nearly nobody clicked on the footer in the first place.
 * Comparative analysis showed sleeker, more utilitarian footers were alive and well on other sites.
 
-###My design & implementation
+## My design & implementation
 
 ![The new footer](/images/afterFooter.png)
 
@@ -27,7 +29,7 @@ I iterated several times on my design, each time diminishing the number of links
 
 Following my team's development practices, I raised a pull request to implement the changes and merge to master. Now, our simple footer omits unnecessary links and columns. We only link to the bare essentials, and have seen other Atlassian sites trend toward simplicity.
 
-### Lessons learned
+## Lessons learned
 
 If I could do things differently:
 
