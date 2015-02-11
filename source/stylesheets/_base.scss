@@ -92,23 +92,29 @@ header[role="banner"] {
 }
 
 .mark {
+  font-family: $font-stack-ui-fallback;
+  font-size: .65em;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+}
+
+.wf-proximanovascosfextcond-n4-active .mark {
   text-transform: lowercase;
   font-family: $font-stack-ui;
+  font-size: 1em;
   letter-spacing: .15em;
-
-  // &:after {
-  //   content: '§';
-  //   display: inline-block;
-  //   padding: 0 1rem;
-  // }
 }
 
 .mark a, .mark a:visited {
-  // background-color: $primary-color;
   border: 2px solid $primary-color;
   color: $primary-color;
   padding: 0 .3em;
   text-decoration: none;
+
+  &:hover, &:active {
+    background-color: $primary-color;
+    color: #fff;
+  }
 }
 
 nav {
@@ -118,11 +124,17 @@ nav {
 nav a, nav a:visited {
   color: $text-color-fg;
   text-decoration: none;
-  text-transform: lowercase;
-  // font-variant: small-caps;
+  text-transform: uppercase;
+  font-family: $font-stack-ui-fallback;
+  font-size: .65em;
+  letter-spacing: .1em;
+}
+
+.wf-proximanovascosfextcond-n4-active nav a, nav a:visited {
   font-family: $font-stack-ui;
+  font-size: 1em;
+  text-transform: lowercase;
   letter-spacing: .15em;
-  // font-size: 1em;
 }
 
 nav a:hover, nav a:active {
@@ -184,14 +196,19 @@ nav a + a {
 
 time {
   color: $secondary-text-color-fg;
-  text-transform: lowercase;
-  font-family: $font-stack-ui;
-  font-size: .9rem;
-  // font-variant: small-caps;
+  text-transform: uppercase;
+  font-family: $font-stack-ui-fallback;
+  font-size: .7em;
+  letter-spacing: .1em;
   font-weight: 400;
-  // letter-spacing: .1em;
 }
 
+.wf-proximanovascosfextcond-n4-active time {
+  font-family: $font-stack-ui;
+  font-size: .9em;
+  text-transform: lowercase;
+  letter-spacing: .15em;
+}
 
 article[role="main"] h1 a {
   text-decoration: none;

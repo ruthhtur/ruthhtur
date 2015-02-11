@@ -1,10 +1,8 @@
 $font-stack: "chaparral-pro", georgia, sans-serif;
 // $font-stack: "ff-tisa-web-pro", georgia, sans-serif;
 
-// $font-stack-ui: "proxima-nova-sc-osf-condensed", "helvetica neue", helvetica, sans-serif;
+$font-stack-ui-fallback: "helvetica neue", helvetica, sans-serif;
 $font-stack-ui: "proxima-nova-sc-osf-ext-cond", "helvetica neue", helvetica, sans-serif;
-// $font-stack-ui: "franklin-gothic-urw-con-sc", "helvetica neue", helvetica, sans-serif;
-// $font-stack-ui: "helvetica neue", helvetica, sans-serif;
 
 $primary-color: hsl(325, 99%, 39%);
 $support-color: hsl(16, 62%, 93%);
@@ -13,7 +11,7 @@ $complimentary-color: hsl(198, 82%, 51%);
 $text-color-fg: #000;
 $secondary-text-color-fg: hsla(0, 0%, 75%, 1);
 $selection-color-bg: hsla(55, 100%, 77%, 1);
-$page-color-bg: white;
+$page-color-bg: #fff;
 // $page-color-bg: $support-color;
 
 // $link-color-fg: #cc3333;
