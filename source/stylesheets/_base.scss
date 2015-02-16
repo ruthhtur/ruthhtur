@@ -224,3 +224,9 @@ article[role="main"] h1 a {
   margin: 0;
   font-size: .857142857rem;
 }
+
+.index .nav-index,
+.projects .nav-projects,
+.resume .nav-resume {
+  border-bottom: 2px solid $primary-color;
+}
