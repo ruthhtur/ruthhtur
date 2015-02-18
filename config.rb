@@ -18,7 +18,7 @@ activate :deploy do |deploy|
   deploy.build_before = true
   deploy.clean = true
   deploy.method = :git
-  deploy.remote = 'hosting'
+  deploy.remote = 'git@github.com:ruthhtur/ruthhtur.github.io.git'
   deploy.branch = 'master'
 end
 
