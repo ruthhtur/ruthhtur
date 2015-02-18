@@ -14,6 +14,14 @@ compass_config do |config|
   config.output_style = :compact
 end
 
+activate :deploy do |deploy|
+  deploy.build_before = true
+  deploy.clean = true
+  deploy.method = :git
+  deploy.remote = 'hosting'
+  deploy.branch = 'master'
+end
+
 activate :blog do |blog|
   blog.sources = 'posts/{year}-{month}-{day}-{title}.html'
   blog.layout = 'post'

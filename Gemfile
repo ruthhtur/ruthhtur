@@ -8,6 +8,8 @@ gem "middleman-blog"
 
 gem "middleman-syntax"
 
+gem "middleman-deploy"
+
 gem "redcarpet"
 
 gem "typogruby"
