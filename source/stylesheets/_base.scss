@@ -229,4 +229,8 @@ article[role="main"] h1 a {
 .projects .nav-projects,
 .resume .nav-resume {
   border-bottom: 2px solid $primary-color;
+
+  &:hover, &:active {
+    border-bottom-color: $link-color-fg;
+  }
 }
