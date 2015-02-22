@@ -2,13 +2,13 @@
 title: Work & experience
 ---
 
-# Résumé
+# Curriculume Vitae
 
 ## Work experience
 
 <section class="resume-item">
   <header>
-    <h1><a href="http://conf.writethedocs.org/na/2014/index.html">Write the Docs</a> / Community Organizer</h1>
+    <h1><a href="http://conf.writethedocs.org/na/2014/index.html">Write the Docs</a> | Community Organizer</h1>
     <p>Feb 2014–present, Budapest, San Francisco & Portland</p>
   </header>
 
@@ -21,7 +21,7 @@ title: Work & experience
 
 <section class="resume-item">
   <header>
-    <h1><a href="http://marketplace.atlassian.com">Atlassian Marketplace</a></h1>
+    <h1><a href="http://www.atlassian.com">Atlassian</a> | UX Researcher</h1>
     <p>May 2013–present, San Francisco</p>
   </header>
 
@@ -38,7 +38,7 @@ title: Work & experience
 
 <section class="resume-item">
   <header>
-    <h1><a href="http://www.meetup.com/UX-Speed-Dating-San-Francisco/about/">UX Speed Dating</a> / Organizer</h1>
+    <h1><a href="http://www.meetup.com/UX-Speed-Dating-San-Francisco/about/">UX Speed Dating</a> | Organizer</h1>
     <p>May 2014–present, San Francisco</p>
   </header>
 
@@ -51,7 +51,7 @@ title: Work & experience
 
 <section class="resume-item">
   <header>
-    <h1><a href="https://www.surveymonkey.com/">SurveyMonkey</a></h1>
+    <h1><a href="https://www.surveymonkey.com/">SurveyMonkey</a> | Knowledge Base Project Manager</h1>
     <p>Mar 3 2012– Apr 2013, Portland</p>
   </header>
 
@@ -67,7 +67,7 @@ title: Work & experience
 
 <section class="resume-item">
   <header>
-    <h1><a href="http://www.netflix.com">Netflix</a></h1>
+    <h1><a href="http://www.netflix.com">Netflix</a> | Customer Service Supervisor</h1>
     <p>Jan 2009–Sep 2009, Hillsboro, Oregon</p>
   </header>
 
@@ -84,7 +84,7 @@ title: Work & experience
 
 <section class="resume-item">
   <header>
-    <h1><a href="http://www.lclark.edu/">Lewis & Clark College</a> / BA in Sociology/Anthropology</h1>
+    <h1><a href="http://www.lclark.edu/">Lewis & Clark College</a> | BA in Sociology/Anthropology</h1>
     <p>August 2004-May 2007, Portland, Oregon</p>
   </header>
 
@@ -100,4 +100,4 @@ title: Work & experience
   <li>Java, Javascript, HTML &amp; CSS proficiency</li>
 </ul>
 
-<b>References available upon request.</b>
+<b>Excellent references available upon request</b>
