@@ -8,8 +8,21 @@ title: Work & experience
 
 <section class="resume-item">
   <header>
+    <h1><a href="http://www.meetup.com/UX-Speed-Dating-San-Francisco/">UX Speed Dating</a> | Community Organizer</h1>
+    <p>Feb 2014–present, San Francisco</p>
+  </header>
+
+  <ul>
+    <li>Helped recruit sponsors, venues, and set schedules.</li>
+    <li>Planned and ran 5 meetups with co-organizers, meetup currently has more than 370 members.</li>
+    <li>Demoed example usability tests with co-organizers, provided onsite advice and tips to new members.</li>
+  </ul>
+</section>
+
+<section class="resume-item">
+  <header>
     <h1><a href="http://conf.writethedocs.org/na/2014/index.html">Write the Docs</a> | Community Organizer</h1>
-    <p>Feb 2014–present, Budapest, San Francisco & Portland</p>
+    <p>Feb 2014 – November 2014, Budapest, San Francisco & Portland</p>
   </header>
 
   <ul>
