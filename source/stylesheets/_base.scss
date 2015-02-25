@@ -51,8 +51,9 @@ h2 {
 }
 
 h3 {
-  font-size: 1.169rem;
-  margin: 1rem 0 0;
+  font-size: 1.142857143rem;
+  font-weight: 600;
+  margin: 1em 0 0;
 }
 
 p, ul {
@@ -60,7 +61,7 @@ p, ul {
 }
 
 h3 + p, h3 + ul {
-  margin-top: .5em;
+  margin-top: .25em;
 }
 
 a {
