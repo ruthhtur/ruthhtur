@@ -16,7 +16,6 @@ title: Projects
 
 ### Purchasing lifecycle usability testing  
   Worked with purchasing team to facilitate usability interviews on per-user pricing and purchasing flow. Interviewed 21 participants in 3 days.  
-  
 
 ### Summit Test Lab  
   Provided self-driven usability stations at Summit, our annual user conference. With 16 Macbook Pros, 10 volunteers, and over 2100 customers, we collected more than 200 videos of customers interacting with designs and prototypes.  
