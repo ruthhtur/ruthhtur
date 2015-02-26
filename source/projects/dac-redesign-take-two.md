@@ -39,5 +39,25 @@ were developing for. We talked to customers at Summit, and found that people did
 clustered around certain products: High hits on JIRA, with Confluence coming in second. Everything else was 
 basically small potatoes, and nobody was really going to sections "about" SaaS or server deployment. 
 
-Then, we looked at what people were searching for. The documentation 
+Then, we looked at what people were searching for. The documentation was well-indexed by Google, and 
+reaffirmed our insight about the product-centric need for content (not platform-centric). We also saw that 
+people were searching mostly on Google, and that was their entry point. So, we needed to create an 
+intuitive navigation structure to support the majority of people entering from Google, not just a nice 
+homepage. 
 
+Finally, we examined what we wanted to reveal to customers. We had some newer products, like HipChat, 
+with robust, comprehensive, up-to-date documentation we could showcase. We also had great documentation 
+for lots of other products, but not very comprehensive. We wanted to showcase the best of the best, and 
+provide a point-of-entry for a growing product. We also had a new blog series emerging from developers, 
+and it seemed prudent to make this easy to find. This way, we could showcase that this was a site that 
+was _alive_: People were contributing, and the community was actively writing blogs about it. 
+
+With all three areas, we had lots of topics to surface; but no real structure yet. We turned to card 
+sorting. Unfortunately, we weren't able to validate our card sorting with customers, but we did get 
+various developers within a 1000+ person company to participate. We saw the same product-centric pattern: 
+Organizing topics by product, and starting with tutorials and resources. We created a draft version, 
+validated it with stakeholders, and made high-fidelity mockups. We sparred lots of versions of the homepage 
+and information architecture with designers from around the company. 
+
+Our final design resulted in this: 
+![implemented](/images/DACv26.png)
