@@ -13,9 +13,29 @@ title: Work & experience
   </header>
 
   <ul>
+    <li>Coordinated meetups where designers & test orchestrators (project managers, product managers, marketers, etc) could run 3 20-minute tests in a speed dating format. Users were incentivized with swag and sponsor-provided raffle prizes.</li>
     <li>Helped recruit sponsors, venues, and set schedules.</li>
     <li>Planned and ran 5 meetups with co-organizers, meetup currently has more than 370 members.</li>
     <li>Demoed example usability tests with co-organizers, provided onsite advice and tips to new members.</li>
+  </ul>
+</section>
+
+<section class="resume-item">
+  <header>
+    <h1><a href="http://www.atlassian.com">Atlassian</a> | UX Researcher</h1>
+    <p>May 2013–present, San Francisco</p>
+  </header>
+
+  <ul>
+    <li>Designed & executed research plans for diary studies, concept tests, workshops, usability tests, and data-driven growth experiments.</li>
+    <li>Wrote screeners, managed recruitment agency relationships and projects. </li>
+    <li>Planned and ran a usability "Test Lab" at Summit 2014, a conference with 2100+ attendees. Captured 200+ usability test videos across 16 different test scripts in 2 days.</li>
+    <li>Co-created and taught a usability testing "bootcamp" workshops  for designers. Taught usability testing fundamentals for planning, orchestrating, and analyzing user tests, and offered continued mentorship for Design team members looking to boost their skills.</li>
+    <li>Pioneered customer feedback initiative for San Francisco site, where users came in person for multiple rounds of short usability tests. Recruited user participants, matched participants to tests, and organized events.</li>
+    <li>Designed and implemented  product navigation elements, footer, error pages, and other standalone Marketplace products.</li>
+    <li>Designed and conducted usability tests on developer documentation and product interfaces.</li>
+    <li>Iterated on usability test scripts and methods to adjust for bias and variables, and implemented changes based on usability test results.</li>
+    <li>Maintained UX copy following team development practices; copy changes made in source code.</li>
   </ul>
 </section>
 
@@ -29,36 +49,6 @@ title: Work & experience
     <li>Curated speakers and organized talk schedules. Handled communication (acceptance letters, rejection letters, speaker tips, etc) relevant to schedule planning.</li>
     <li>Updated and maintained conference site with with text and HTML/CSS/JS elements.</li>
     <li>Started San Francisco meetup chapter of Write the Docs, boasting 190+ members and 3 meetups to date.</li>
-  </ul>
-</section>
-
-<section class="resume-item">
-  <header>
-    <h1><a href="http://www.atlassian.com">Atlassian</a> | UX Researcher</h1>
-    <p>May 2013–present, San Francisco</p>
-  </header>
-
-  <ul>
-    <li>Planned and ran a usability "Test Lab" at Summit 2014, a conference with 2100+ attendees. Captured 200+ usability test videos across 16 different scripts in 2 days.</li>
-    <li>Co-created and taught a usability testing "bootcamp" workshops  for designers. Taught usability testing fundamentals for planning, orchestrating, and analyzing user tests, and offered continued mentorship for Design team members looking to boost their skills.</li>
-    <li>Pioneered monthly customer feedback initiative for San Francisco site, where users came in person for multiple rounds of short usability tests. Recruited user participants, matched participants to tests, and organized events.</li>
-    <li>Designed and implemented  product navigation elements, footer, error pages, and other standalone Marketplace products.</li>
-    <li>Designed and conducted usability tests on developer documentation and product interfaces.</li>
-    <li>Iterated on usability test scripts and methods to adjust for bias and variables, and implemented changes based on usability test results.</li>
-    <li>Maintained UX copy following team development practices; copy changes made in source code.</li>
-  </ul>
-</section>
-
-<section class="resume-item">
-  <header>
-    <h1><a href="http://www.meetup.com/UX-Speed-Dating-San-Francisco/about/">UX Speed Dating</a> | Organizer</h1>
-    <p>May 2014–present, San Francisco</p>
-  </header>
-
-  <ul>
-    <li>Coordinated meetups where designers & test orchestrators (project managers, product managers, marketers, etc) could run 3 20-minute tests in a speed dating format. Users were incentivized with swag and sponsor-provided raffle prizes.</li>
-    <li>Managed reminders, sponsors, and logistics.</li>
-    <li>240+ members and 3 meetups to date.</li>
   </ul>
 </section>
 
@@ -103,7 +93,7 @@ title: Work & experience
 
   <ul>
     <li>Transfer student from Occidental College; area of focus on ethnography and writing.</li>
-    <li>Completed a semester abroad at Kansai Gaidai University in Osaka, Japan</li>
+    <li>Completed a semester abroad at <a href="http://www.kansaigaidai.ac.jp/asp/" target="_blank">Kansai Gaidai University</a> in Osaka, Japan</li>
   </ul>
 
 ## Additional skills
