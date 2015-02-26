@@ -2,7 +2,7 @@
 title: Atlassian Developer landing page
 ---
 
-###Atlassian developer documentation
+# Atlassian developer documentation
 
 In effort to expose emerging developer platforms, we redesigned our developer documentation homepage. Our existing design didn't expose the complexities of multiple products and platforms, and required extra effort and background knowlege from our site visitors.
 

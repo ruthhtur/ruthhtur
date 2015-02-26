@@ -6,6 +6,8 @@ title: Projects
 
 ## Design
 
+[Developer Documentation redesign: Take II](/projects/dac-redesign-take-two/)
+
 [Atlassian Verified dashboard](/projects/atlassian-verified-dashboard/)
 
 [Atlassian Marketplace footer](/projects/marketplace-footer/)
