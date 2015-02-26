@@ -60,4 +60,4 @@ validated it with stakeholders, and made high-fidelity mockups. We sparred lots 
 and information architecture with designers from around the company. 
 
 Our final design resulted in this: 
-![implemented](/images/DACv26.png)
+![implemented](/images/DAC-Final.png)
