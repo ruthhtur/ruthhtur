@@ -80,10 +80,6 @@ a:visited:hover, a:visited:active {
 }
 
 header[role="banner"] {
-  padding: 0 $margin;
-}
-
-header[role="banner"] {
   border-bottom: .2rem solid $support-color;
   padding-top: 1rem;
   margin-bottom: 1rem;
@@ -147,7 +143,7 @@ nav a + a {
 }
 
 .intro {
-  margin: 2rem $margin * -2;
+  margin: 2rem $margin * -1;
   font-style: italic;
   // background: black;
 }
