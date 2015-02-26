@@ -2,7 +2,7 @@
 title: Work & experience
 ---
 
-# Curriculume Vitae
+# Curriculum Vitae
 
 ## Work experience
 
