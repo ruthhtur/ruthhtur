@@ -15,7 +15,7 @@ title: Work & experience
   <ul>
     <li>Coordinated meetups where designers & test orchestrators (project managers, product managers, marketers, etc) could run 3 20-minute tests in a speed dating format. Users were incentivized with swag and sponsor-provided raffle prizes.</li>
     <li>Helped recruit sponsors, venues, and set schedules.</li>
-    <li>Planned and ran 5 meetups with co-organizers, meetup currently has more than 370 members.</li>
+    <li>Planned and ran 5 meetups with co-organizers, grew membership from 0 to 370+ members.</li>
     <li>Demoed example usability tests with co-organizers, provided onsite advice and tips to new members.</li>
   </ul>
 </section>
@@ -27,7 +27,7 @@ title: Work & experience
   </header>
 
   <ul>
-    <li>Designed & executed research plans for diary studies, concept tests, workshops, usability tests, and data-driven growth experiments.</li>
+    <li>Designed & executed research plans for diary studies, concept tests, workshops, usability tests, and data-driven growth experiments on HipChat.</li>
     <li>Wrote screeners, managed recruitment agency relationships and projects. </li>
     <li>Planned and ran a usability "Test Lab" at Summit 2014, a conference with 2100+ attendees. Captured 200+ usability test videos across 16 different test scripts in 2 days.</li>
     <li>Co-created and taught a usability testing "bootcamp" workshops  for designers. Taught usability testing fundamentals for planning, orchestrating, and analyzing user tests, and offered continued mentorship for Design team members looking to boost their skills.</li>
