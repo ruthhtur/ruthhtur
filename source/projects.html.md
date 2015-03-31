@@ -18,7 +18,7 @@ title: Projects
 
 ### Confluence Diary Studies  
 Ran a 10-working-day study with participants in the United States. Participants documented their journeys with Confluence using Tumblr, and responded to structured questions and templates. At the close of the study, worked with researchers to create a working engagement model, visual assets, and workshop materials.  
-<a href="/images/Confluence-Poster.png" target="_blank">Check out the poster I made</a>
+<a href="/projects/efi-diary">Insights and recommendations</a> | <a href="/projects/office-posters">Office posters</a>
 
 ### Purchasing lifecycle usability testing  
   Worked with purchasing team to facilitate usability interviews on per-user pricing and purchasing flow. Interviewed 21 participants in 3 days.  
