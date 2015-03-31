@@ -42,7 +42,7 @@ title: Work & experience
 <section class="resume-item">
   <header>
     <h1><a href="http://conf.writethedocs.org/na/2014/index.html">Write the Docs</a> | Community Organizer</h1>
-    <p>Feb 2014 – November 2014, Budapest, San Francisco & Portland</p>
+    <p>Feb 2014–Nov 2014, Budapest, San Francisco & Portland</p>
   </header>
 
   <ul>
@@ -55,7 +55,7 @@ title: Work & experience
 <section class="resume-item">
   <header>
     <h1><a href="https://www.surveymonkey.com/">SurveyMonkey</a> | Knowledge Base Project Manager</h1>
-    <p>Mar 3 2012– Apr 2013, Portland</p>
+    <p>Mar 2012–Apr 2013, Portland</p>
   </header>
 
   <ul>
@@ -88,7 +88,7 @@ title: Work & experience
 <section class="resume-item">
   <header>
     <h1><a href="http://www.lclark.edu/">Lewis & Clark College</a> | BA in Sociology/Anthropology</h1>
-    <p>August 2004-May 2007, Portland, Oregon</p>
+    <p>Aug 2004–May 2007, Portland, Oregon</p>
   </header>
 
   <ul>
