@@ -4,25 +4,15 @@ title: Projects
 
 # Projects
 
-## Design
-
-[Developer Documentation redesign: Take II](/projects/dac-redesign-take-two/)
-
-[Atlassian Verified dashboard](/projects/atlassian-verified-dashboard/)
-
-[Atlassian Marketplace footer](/projects/marketplace-footer/)
-
-[SurveyMonkey help center redesign](/projects/surveymonkey-help-center/)
-
 ## Research
 
 ### HipChat research  
-Worked on HipChat research intermittently from June 2014-present; working cross-functionally 
-with PMs, designers, Voice of the Customer, and data analysts. 
+Worked on HipChat research intermittently from June 2014-present; worked cross-functionally 
+with PMs, designers, engineers, Voice of the Customer, and data analysts. 
 
 * __Onboarding & Growth: Biweekly interviews__  
-  Interviewed 6-7 potential customers with onboarding flows for new signups. Interviews included 
-  concept tests, usability interviews, and comparative studies. Recruited cross-
+  Interviewed 6-7 potential customers every other week with onboarding flows for new signups. 
+  Interviews included concept tests, usability interviews, and comparative studies. Recruited cross-
   functional roles for observation, analysis, and notetaking. Presented insights and 
   recommendations, and iterated quickly on designs and scripts. 
 
@@ -49,6 +39,16 @@ Ran a 10-working-day study with participants in the United States. Participants 
 
 ### Usability testing bootcamp  
   Co-created a curriculum to teach usability testing basics, & piloted with San Francisco-based Design team. Ready for scheduling and implementation across broader Atlassian team.  
+
+## Design
+
+[Developer Documentation redesign: Take II](/projects/dac-redesign-take-two/)
+
+[Atlassian Verified dashboard](/projects/atlassian-verified-dashboard/)
+
+[Atlassian Marketplace footer](/projects/marketplace-footer/)
+
+[SurveyMonkey help center redesign](/projects/surveymonkey-help-center/)
 
 ## Additional projects
 

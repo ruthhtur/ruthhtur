@@ -224,7 +224,8 @@ article[role="main"] h1 a {
 
 .index .nav-index,
 .projects .nav-projects,
-.resume .nav-resume {
+.resume .nav-resume,
+.about-me .nav-about-me {
   border-bottom: 2px solid $primary-color;
 
   &:hover, &:active {
