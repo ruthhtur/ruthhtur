@@ -6,6 +6,13 @@ title: Projects
 
 ## Research
 
+### Dropbox research
+Operated as an embedded researcher on a cross-functional design team, striving to be inclusive, collaborative, and extremely communicative. Projects include:
+
+* __Web feature concept testing__
+  To be updated soon
+
+
 ### HipChat research  
 Worked on HipChat research intermittently from June 2014-present; worked cross-functionally 
 with PMs, designers, engineers, Voice of the Customer, and data analysts. 

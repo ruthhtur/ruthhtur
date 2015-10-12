@@ -8,6 +8,21 @@ title: Work & experience
 
 <section class="resume-item">
   <header>
+    <h1><a href="www.dropbox.com">Dropbox</a> | User Researcher, Design</h1>
+    <p>June 2015-present, San Francisco</p>
+  </header>
+
+  <ul>
+    <li>Worked with multidisciplinary teams following an embedded model new to Dropbox; taking part in planning, design critique, retrospectives, and other cross-functional design initiatives.</li>
+    <li>Ran qualitative concept tests, usability tests, and in-lab interviews.</li>
+    <li>Collaborated with other researchers on surveys for quantitative samples, co-authoring and communicating results.</li>
+    <li>Led fieldwork in Las Vegas on a team-wide, multi-city persona project.</li>
+    <li>Worked with qualitative and quantitative researchers on surveys to assess distribution and prevalence of attitudes and goals observed in fieldwork and qualitative interviews.</li>
+  </ul>
+</section>
+
+<section class="resume-item">
+  <header>
     <h1><a href="http://www.meetup.com/UX-Speed-Dating-San-Francisco/">UX Speed Dating</a> | Community Organizer</h1>
     <p>Feb 2014–present, San Francisco</p>
   </header>

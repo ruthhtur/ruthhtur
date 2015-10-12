@@ -159,6 +159,12 @@ nav a + a {
   padding: 0 $margin * 2;
 }
 
+.intro .avatar {
+  width: 100px;
+  height: 100px;
+  border: none;
+}
+
 [role="main"] {
   padding: 0 $margin;
 }
