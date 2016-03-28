@@ -8,23 +8,23 @@ title: Work & experience
 
 <section class="resume-item">
   <header>
-    <h1><a href="www.dropbox.com">Dropbox</a> | User Researcher, Design</h1>
+    <h1><a href="www.dropbox.com">Dropbox</a> | Design Researcher</h1>
     <p>June 2015-present, San Francisco</p>
   </header>
 
   <ul>
-    <li>Worked with multidisciplinary teams following an embedded model new to Dropbox; taking part in planning, design critique, retrospectives, and other cross-functional design initiatives.</li>
-    <li>Ran qualitative concept tests, usability tests, and in-lab interviews.</li>
+    <li>Worked with multidisciplinary teams in an embedded model; taking part in planning, design critique, retrospectives, and other cross-functional design initiatives.</li>
+    <li>Planned and ran design sprints, concept tests, usability tests, surveys, and in-lab interviews.</li>
     <li>Collaborated with other researchers on surveys for quantitative samples, co-authoring and communicating results.</li>
     <li>Led fieldwork in Las Vegas on a team-wide, multi-city persona project.</li>
-    <li>Worked with qualitative and quantitative researchers on surveys to assess distribution and prevalence of attitudes and goals observed in fieldwork and qualitative interviews.</li>
+    <li>Worked with qualitative and quantitative researchers on surveys. </li>
   </ul>
 </section>
 
 <section class="resume-item">
   <header>
     <h1><a href="http://www.meetup.com/UX-Speed-Dating-San-Francisco/">UX Speed Dating</a> | Community Organizer</h1>
-    <p>Feb 2014–present, San Francisco</p>
+    <p>Feb 2014–Sept 2015, San Francisco</p>
   </header>
 
   <ul>
@@ -38,7 +38,7 @@ title: Work & experience
 <section class="resume-item">
   <header>
     <h1><a href="http://www.atlassian.com">Atlassian</a> | UX Researcher</h1>
-    <p>May 2013–present, San Francisco</p>
+    <p>May 2013–June 2015, San Francisco</p>
   </header>
 
   <ul>
@@ -114,6 +114,8 @@ title: Work & experience
 ## Additional skills
 
 <ul>
+  <li>Adept using Sketch, Adobe Creative Suite, Qualtrics, among other tools</li>
+  <li>Attended <a href="http://uxpaboston.org/events/user-experience-conference-2015/" target="_blank">UXPA in May 2015</a>, and <a href="http://smashingconf.com/freiburg-2015/" target="_blank">Smashing in September 2015</a></li>
   <li>TEFL-certified via a 100-hour course, completed 8/2010</li>
   <li>Java, Javascript, HTML &amp; CSS proficiency</li>
 </ul>

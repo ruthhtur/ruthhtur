@@ -6,14 +6,22 @@ title: Projects
 
 ## Research
 
-### Dropbox research
-Operated as an embedded researcher on a cross-functional design team, striving to be inclusive, collaborative, and extremely communicative. Projects include:
+### Dropbox design research
+Embedded in an interdisciplinary design team, facilitated research from fieldwork to design sprints to surveys:
 
-* __Web feature concept testing__
-  To be updated soon
+* __Dropbox Desktop Client__  
+  Conducted concept tests, facilitated design sprints, ran surveys, and in-context interviews 
+  to prioritize features for Dropbox on desktop; with a cross-functional team including 
+  designers, PMs, and writers.  
+
+* __Dropbox Recents__   
+  Conducted concept testing with paper and interactive prototypes, ran surveys to measure people's goals on 
+  dropbox.com, and contributed actively to product and feature strategy.  
+
+  <a href="mailto:ruthhtur@gmail.com?subject=Dropbox project examples">Examples available upon request.</a>
 
 
-### HipChat research  
+### HipChat design research  
 Worked on HipChat research intermittently from June 2014-present; worked cross-functionally 
 with PMs, designers, engineers, Voice of the Customer, and data analysts. 
 
@@ -42,7 +50,7 @@ Ran a 10-working-day study with participants in the United States. Participants 
 
 ### Summit Test Lab  
   Provided self-driven usability stations at Summit, our annual user conference. With 16 Macbook Pros, 10 volunteers, and over 2100 customers, we collected more than 200 videos of customers interacting with designs and prototypes.  
-  [Read my blog about this](http://blogs.atlassian.com/2014/10/user-testing-atlassian-summit/)  
+  [Read blog](http://blogs.atlassian.com/2014/10/user-testing-atlassian-summit/)  
 
 ### Usability testing bootcamp  
   Co-created a curriculum to teach usability testing basics, & piloted with San Francisco-based Design team. Ready for scheduling and implementation across broader Atlassian team.  
