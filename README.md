@@ -4,14 +4,28 @@ This is a site for Ruth's totes profesh portfolio. It's up at [http://ruthhtur.m
 
 ### Go to your code
 
-`cd ~/projects/ruthhtur`
+```
+cd ~/projects/ruthhtur
+```
+
+### Save a change
+
+```
+git add .
+git commit -m 'YOUR COMMIT MESSAGE'
+git push
+```
 
 ### Build locally
 
-`bundle exec middleman server`
+```
+bundle exec middleman server
+```
 
 ### Deploy 
 
-`bundle exec middleman deploy`
+```
+bundle exec middleman deploy
+```
 
 
