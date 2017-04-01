@@ -9,14 +9,14 @@ html {
   // font: normal 112.5%/1.5 $font-stack; // 18
   font: normal 131.25%/1.5 $font-stack; // 21
 
-  opacity: 0;
+  // opacity: 0;
 
   -webkit-transition: all .1s easy-in-out;
           transition: all .1s ease-in-out;
 
-  &.wf-active {
-    opacity: 1;
-  }
+  // &.wf-active {
+  //   opacity: 1;
+  // }
 }
 
 ::-moz-selection { background-color: $selection-color-bg; }
