@@ -14,9 +14,9 @@ title: Work & experience
 
   <ul>
     <li>Worked with multidisciplinary teams in an embedded model; taking part in planning, design critique, retrospectives, and other cross-functional design initiatives.</li>
-    <li>Planned and ran design sprints, concept tests, usability tests, surveys, and in-lab interviews.</li>
-    <li>Collaborated with other researchers on surveys for quantitative samples, co-authoring and communicating results.</li>
-    <li>Led fieldwork in Las Vegas on a team-wide, multi-city persona project.</li>
+    <li>Planned and executed design sprints, workshops, concept tests, usability tests, surveys, in-context interviews, and lab  studies.</li>
+    <li>Implemented co- and participatory design workshops, partnering with customers as part of the design process using design workshop techniques.</li>
+    <li>Led multiple fieldwork projects on team-wide, multi-city foundational research projects.</li>
     <li>Worked with qualitative and quantitative researchers on surveys. </li>
   </ul>
 </section>
