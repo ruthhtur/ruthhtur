@@ -41,10 +41,6 @@ Projects where concepts were more concrete, but execution is still an open quest
 
 * **Summit Test Lab** <br>Provided self-driven usability stations at Summit, our annual user conference. With 16 Macbook Pros, 10 volunteers, and over 2100 customers, we collected more than 200 videos of customers interacting with designs and prototypes. [Read blog](http://blogs.atlassian.com/2014/10/user-testing-atlassian-summit/)  
 
-
-
-# Design
-
 * [Developer Documentation Redesign: Take II](/projects/dac-redesign-take-two/)
 
 * [Atlassian Verified Dashboard](/projects/atlassian-verified-dashboard/)
