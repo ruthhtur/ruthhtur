@@ -4,10 +4,16 @@ title: Projects
 
 # Projects
 
+## Conference talks
+
+### UX Strat, Boulder Colorado 2017  
+["Building Design Strategy at Dropbox: Codesigning with Customers"](https://www.slideshare.net/UXSTRAT/ux-strat-usa-2017-ruth-buchanan-codesigning-dropbox-innovations-with-customers) on September 18, 2017.  
+
 ## Research
 
 ### Dropbox design research
-Embedded in an interdisciplinary design team, facilitated research from fieldwork to design sprints to surveys:
+Worked in an embedded model on teams in early, mid, and late-phase projects; conducting qualitative and quantitative research.  
+
 
 * __Dropbox Desktop Client__  
   Conducted concept tests, facilitated design sprints, ran surveys, and in-context interviews 

@@ -15,7 +15,7 @@ title: Work & experience
   <ul>
     <p><strong>Design & Product Strategy</strong></p>
     <li>Worked with multidisciplinary teams in an embedded model; taking part in planning, design critique, retrospectives, and other cross-functional design initiatives.</li>
-    <li>Participated and assisted with company-wide strategy initiatives, as part of a small group responsible for pitching and evaluating potentially new opportunities.</li>
+    <li>Participated and assisted with company-wide strategy initiatives, as part of a small group responsible for pitching and evaluating potential opportunities.</li>
     <li>Planned and ran internal workshops with teams to generate and identify new ideas, to align on team and design strategy, and to kick off new projects.</li>
     
     <p><strong>Qualitative Design Research Methods</strong></p>
@@ -28,19 +28,6 @@ title: Work & experience
   </ul>
 </section>
 
-<section class="resume-item">
-  <header>
-    <h1><a href="http://www.meetup.com/UX-Speed-Dating-San-Francisco/">UX Speed Dating</a> | Community Organizer</h1>
-    <p>Feb 2014–Sept 2015, San Francisco</p>
-  </header>
-
-  <ul>
-    <li>Coordinated meetups where designers & test orchestrators (project managers, product managers, marketers, etc) could run 3 20-minute tests in a speed dating format. Users were incentivized with swag and sponsor-provided raffle prizes.</li>
-    <li>Helped recruit sponsors, venues, and set schedules.</li>
-    <li>Planned and ran 5 meetups with co-organizers, grew membership from 0 to 370+ members.</li>
-    <li>Demoed example usability tests with co-organizers, provided onsite advice and tips to new members.</li>
-  </ul>
-</section>
 
 <section class="resume-item">
   <header>
@@ -128,3 +115,4 @@ title: Work & experience
 </ul>
 
 <b>Excellent references available upon request</b>
+

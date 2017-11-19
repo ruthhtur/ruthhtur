@@ -2,7 +2,7 @@
 title: EFI diary
 ---
 
-# Understanding Confluence onboarding
+# Understanding Confluence Onboarding 
 
 This poster was made for an interal blog for people working on the project. 
 

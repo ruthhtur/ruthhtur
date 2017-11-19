@@ -22,7 +22,7 @@ Not pictured here are tooltips for each field that describe the requirements in 
 
 ![The dashboard](/images/verified-dashboard.jpg)
 
-## Lessons learned
+## Lessons Learned
 
 The dashboard has been a success. I've implemented changes in dashboard design, email notifications, and documentation in response to direct feedback from support and vendors. In retrospect, I should have initiated this feedback loop earlier on.
 
