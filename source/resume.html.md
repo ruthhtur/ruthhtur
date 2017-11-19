@@ -28,6 +28,16 @@ title: Work & experience
   </ul>
 </section>
 
+<section class="resume-item"> 
+  <header>
+    <h1><a href="https://uxstrat.com/usa/">UX Strat USA</a> | Speaker</h1>
+    <p>September 18-19, 2017 in Boulder Colorado</p>
+  </header>
+  <ul>
+    <li>Delivered a talk on how to conduct strategic research with people using co-creative methodology. <a href="https://www.slideshare.net/UXSTRAT/ux-strat-usa-2017-ruth-buchanan-codesigning-dropbox-innovations-with-customers">Slides</a>
+  </ul>
+  </section>
+
 
 <section class="resume-item">
   <header>

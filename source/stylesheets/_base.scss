@@ -40,6 +40,13 @@ h1, h2, h3 {
   font-weight: 400;
 }
 
+h1.tester {
+  font-size: 72px;
+  color: $primary-color;
+  // margin: 0 -1rem;
+
+}
+
 h1 {
   font-size: 2rem;
   margin: .67em 0;
@@ -149,8 +156,6 @@ nav a + a {
 
 .intro {
   margin: 2rem $margin * -1;
-  //font-style: italic;
-  // background: black;
 }
 
 .intro h1 {
@@ -170,9 +175,6 @@ nav a + a {
   border: none;
 }
 
-[role="main"] {
-  padding: 0 $margin;
-}
 
 .article-list {
 
