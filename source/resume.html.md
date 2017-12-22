@@ -36,7 +36,6 @@ title: Work & experience
   <ul>
     <li>Delivered a talk on how to conduct strategic research with people using co-creative methodology. <a href="https://www.slideshare.net/UXSTRAT/ux-strat-usa-2017-ruth-buchanan-codesigning-dropbox-innovations-with-customers">Slides</a>
   </ul>
-  </section>
 
 
 <section class="resume-item">

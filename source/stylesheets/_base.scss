@@ -31,7 +31,6 @@ body {
 
 .page {
   width: 784px;
-  // width: 700px;
   padding: 0;
   margin: 0 auto;
 }
@@ -43,13 +42,12 @@ h1, h2, h3 {
 h1.tester {
   font-size: 72px;
   color: $primary-color;
-  // margin: 0 -1rem;
-
 }
 
 h1 {
   font-size: 2rem;
   margin: .67em 0;
+  color: $primary-color;
 }
 
 h2 {
@@ -182,6 +180,7 @@ nav a + a {
     font-size: 1rem;
     margin: 0;
     display: inline-block;
+    color: $primary-color;
   }
 
   article time {
