@@ -12,7 +12,7 @@ title: Projects
 ## Front-end Design Research  
 Examples of research designed and completed at early phases of product development, before concepts are defined or often even determined: 
 
-* **Coordination Automation Research** <br> Using longitudinal and co-creative methodology, working with users to understand what they'd like to augment or automate in their worklives, and what kind of relationship with technology _they_ dream about. 
+* **Coordination Automation Research** <br> Using longitudinal and co-creative methodology, working with users to understand what they'd like to augment or automate in their worklives, and what kind of relationship with technology _they_ dream about. [Objectives, Outcomes, & Reflections](/projects/coordination-automation/))
 
 * **Participatory Design Workshops with Creative Workers** <br> Several workshops in 2016 where customers self-identified and ideated around their most difficult problems working with files and collaborators.  
 
