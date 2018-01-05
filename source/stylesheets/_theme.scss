@@ -4,11 +4,11 @@
 $font-stack-ui-fallback: "helvetica neue", helvetica, sans-serif;
 $font-stack-ui: "proxima-nova-sc-osf-ext-cond", "helvetica neue", helvetica, sans-serif;
 
-$primary-color: rgb(145, 113, 0);
-$support-color: hsl(16, 62%, 93%);
+$primary-color: rgb(46, 49, 64);
+$support-color: rgb(246, 175, 69);
 $complimentary-color: hsl(198, 82%, 51%);
 
-$text-color-fg: #000;
+$text-color-fg: rgb(46, 49, 64);
 $secondary-text-color-fg: hsla(0, 0%, 75%, 1);
 $selection-color-bg: hsla(55, 100%, 77%, 1);
 $page-color-bg: #fff;
@@ -16,7 +16,7 @@ $page-color-bg: #fff;
 
 // $link-color-fg: #cc3333;
 // $link-color-fg: #f3c859;
-$link-color-fg: #FF6655;
+$link-color-fg: rgb(22, 147, 115);
 
 // $intro-color-bg: #f3c859;
 $intro-color-bg: $primary-color;
