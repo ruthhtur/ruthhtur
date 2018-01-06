@@ -12,18 +12,22 @@ title: Work & experience
     <p>June 2015-present, New York City & San Francisco</p>
   </header>
 
+<p><strong>Design & Product Strategy</strong></p>
   <ul>
-    <p><strong>Design & Product Strategy</strong></p>
     <li>Worked with multidisciplinary teams in an embedded model; taking part in planning, design critique, retrospectives, and other cross-functional design initiatives.</li>
     <li>Participated and assisted with company-wide strategy initiatives, as part of a small group responsible for pitching and evaluating potential opportunities.</li>
     <li>Planned and ran internal workshops with teams to generate and identify new ideas, to align on team and design strategy, and to kick off new projects.</li>
+
+  </ul>
     
-    <p><strong>Qualitative Design Research Methods</strong></p>
+  <p><strong>Qualitative Design Research Methods</strong></p>
+  <ul>
     <li>Planned and executed design sprints, workshops, concept tests, usability tests, in-context interviews, and lab  studies.</li>
     <li>Implemented co- and participatory design workshops, partnering with customers as part of the design process using design workshop techniques. </li>
     <li>Led multiple fieldwork legs on team-wide, multi-city foundational research projects (Los Angeles and Los Vegas).</li>
-
-    <p><strong>Quantitative Design Research Methods</strong></p>
+</ul>
+  <p><strong>Quantitative Design Research Methods</strong></p>
+  <ul>
     <li>Ran and analyzed in-product and email-requested surveys,  independently as well as collaboratively with other researchers.</>
   </ul>
 </section>
