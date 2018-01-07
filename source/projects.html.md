@@ -4,17 +4,20 @@ title: Projects
 
 # Projects & Work
 
+Here's a few projects that represent the way I work. You can also [view my CV](/resume/).
+
 ## Conference Talks
 
-* [**UX Strat, Boulder Colorado 2017**](http://www.uxstrat.com/usa/) <br> "Building Design Strategy at Dropbox: Co-Designing with Customers" on September 18, 2017.  [Slides](https://www.slideshare.net/UXSTRAT/ux-strat-usa-2017-ruth-buchanan-codesigning-dropbox-innovations-with-customers)
+* _upcoming_ [**Pixel Up**](https://pixelup.co.za/) <br> Co-presenting and leading a workshop with [Jennifer Brook](http://jenniferbrook.com/) on how we've been using participatory design and co-creative practice at Dropbox.  
+* [**UX Strat USA**](http://www.uxstrat.com/usa/) <br> "Building Design Strategy at Dropbox: Co-Designing with Customers" on September 18, 2017.  [Slides](https://www.slideshare.net/UXSTRAT/ux-strat-usa-2017-ruth-buchanan-codesigning-dropbox-innovations-with-customers)
 
 
 ##Generative Design Research  
 Examples of research designed and completed at early phases of product development, before concepts are defined or often even determined: 
 
-* [**Smart Technology Research**](/projects/smart-tech/) <br> Using longitudinal and co-creative methodology, working with users to understand what they'd like to augment or automate in their worklives, and what kind of relationship with technology _they_ dream about.
+* [**Smart Technology Research**](/projects/smart-tech/) <br> Using longitudinal and co-creative methodology, working with users to understand what they'd like to augment or automate in their worklives, and what kind of relationship with technology best suits their goals.  
 
-* **Participatory Design Workshops with Creative Workers** <br> Several workshops in 2016 where customers self-identified and ideated around their most difficult problems working with files and collaborators.  
+* **Participatory Design Workshops with Creative Workers** <br> I ran workshops in 2016 where customers self-identified and ideated around their most difficult problems working with files and collaborators, helping to anchor the team around which problems were worth solving – and how.  
 
 * **Review Workflows Rapid Workshopping** <br> A multi-month workshop approach to determine a design strategy for how Dropbox should approach review workflows as a whole, with collaborators in both San Francisco and New York. 
 

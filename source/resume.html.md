@@ -4,8 +4,6 @@ title: Work & experience
 
 # Curriculum Vitae
 
-## Work experience
-
 <section class="resume-item">
   <header>
     <h1><a href="www.dropbox.com">Dropbox</a> | Design Research Lead</h1>
@@ -122,10 +120,7 @@ title: Work & experience
 
 <ul>
   <li>Adept using Sketch, Adobe Creative Suite, Qualtrics, among other tools</li>
-  <li>Attended <a href="http://uxpaboston.org/events/user-experience-conference-2015/" target="_blank">UXPA in May 2015</a>, and <a href="http://smashingconf.com/freiburg-2015/" target="_blank">Smashing in September 2015</a></li>
-  <li>TEFL-certified via a 100-hour course, completed 8/2010</li>
   <li>Java, Javascript, HTML &amp; CSS proficiency</li>
 </ul>
 
-<b>Excellent references available upon request</b>
 
