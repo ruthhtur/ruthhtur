@@ -44,7 +44,7 @@ Unfortunately I can't list the findings here but I can describe their general fo
 In addition to publishing an accessible, recommendation-oriented findings document, as well as making curated selections of our raw data available, we also toured several team meetings and had a "sneak peek" for our stakeholders. 
 
 
-## In Retrospect
+## Retrospective
 
 I have many ideas for things I'd like to add or include to similar studies in the future. One of the things that made this study successful was that when we generated opportunities with particpants, they were working with a record of their activities so they could point out real examples or help us fill in the gaps if we missed any parts of their typical workweek. However, we could have built on this and one possible extension of this work would be to do a workshop with both participants and Dropbox workers where we used the opportunities to co-design concepts. A future technology workshop would be ideal for this, and would be a way to both cement the insights in stakeholders as well as move further into design phase. 
 
