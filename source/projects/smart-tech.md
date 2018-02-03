@@ -4,7 +4,9 @@ title: Smart Technology Research
 
 # Smart Technology Research  
 
-In late 2017, I led a project with two other researchers investigating opportunities for smart technology. For confidentiality, I can't reveal specific objectives or contexts. We used an combined approach of longitudinal data gathering and co-creative research.  
+In late 2017, I led a project with two other researchers investigating opportunities for smart technology. For the sake of confidentiality, I won't reveal specific objectives or contexts. We used an combined approach of longitudinal data gathering and co-creative research.  
+
+![Cards people use to identify opportunities](/images/header.jpg)
 
 ## Goals  
 - Understand people's attitudes, emotions, and current behavior regarding smart technology 

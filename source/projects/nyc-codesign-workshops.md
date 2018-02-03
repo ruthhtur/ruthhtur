@@ -20,11 +20,10 @@ I chose to use workshops because they're inclusive for customers and teammates. 
 
 ### Part I: Identify Problems & Prioritize Opportunities  
 
-1. **Socialize Internal Participationt**<br>Since I was embedded on the team, I had enough context to do relatively informal conversations with the team about their needs and expectations. Instead, I channeled my efforts to socialize and evangelize that the workshops were happening so I could encourage cross-functional participation. 
-1. **Design & Prep Materials**<br>One of the most challenging parts of co-creative design is ensuring that the materials can enable people outside the design team to participate in the design process, even if they have no experience. I designed artifacts for the first wave of workshops:
-    - Handouts and a walkthrough deck explaining context, instructions, and examples 
-    - An activity for participants to map their own workflows individually, including worksheets 
-    - Activities for discussion and 
+1. **Socialize Internal Participation**<br>I was embedded on the team so I had enough context to have informal conversations with the team about their needs and expectations. I socialized and evangelized the workshops so I could encourage cross-functional participation. This included 1-1 and 1-many meetings discussing the methods and goals, and encouraging people to join in.<br><br>
+1. **Design, Prep, and Test Materials**<br>One of the most challenging parts of co-creative design is creating the materials that enable people outside the design team to participate. I designed instructional and participatory assets. For the primary activity, I adapted a day-in-the-life excecise to have participants map a project. Here's an example that resulted from an internal pilot: <br> ![Example project map](/images/pilotmap.png)<br><br>  
+1. **Recruit Participants**<br>Recruiting for co-creative research is a bit different. Rather than look for the average customer in our market, I needed to recruit people that were vocal and more opinionated about what wasn't working in their processes. I also needed people that were open to participate in a design workshop, which creates a bias for who we can recruit. I designed a screener and email that emphasized what people would get out of the workshop: Exposure to design thinking methods, a way to tell us directly what they needed to work the way they wanted, and a chance to network with people in their field also looking for best practices. <br><br>
+1. **Run Workshops**<br>
 
 
 ![Workflow Map Example 1](/images/Map1.png)
