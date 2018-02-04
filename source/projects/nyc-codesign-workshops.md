@@ -4,7 +4,7 @@ title: Participatory Design-Inspired Workshops in New York City
 
 # Identifying Opportunities and Concepts for Creative Workers  
 
-In early 2017, I designed and lead 6 workshops with customers in creative fields. My team was in the front-end phases of design: We hadn't yet identified what we should build or in what order. We needed to identify problems, and understand which opportunities would be the highest impact to solve for our creative customers. 
+In early 2017, I designed and led 6 workshops with customers in creative fields. My team was in the front-end phases of design. We hadn't yet determined what we should build, or in what order. We needed to identify problems, and understand which opportunities would be the highest impact to solve for our creative customers. 
 
 ![Workflow Map Example 3](/images/Map3.png)
 
