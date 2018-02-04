@@ -37,7 +37,7 @@ Across all phases, it was important to us that participants _also_ walked away l
 
 ## Findings & Outcomes 
 
-Unfortunately I can't list the findings here but I can describe their general form. We collected a tremendous amount of data, and we wanted to present it to our stakeholders based on what the organization should **do** about the opportunities; and in what order. So, we designed our findings to include each of the following three attributes:
+I can't list specific findings.  We collected a large volume amount of data, and we wanted to present it to our stakeholders based on what the organization should **do** about the opportunities; and in what order. So, we designed our findings to include each of the following three attributes:
 
 - Concrete examples of workflows and features that were good opportunities
 - Principles and preferences reflected by participants for _how_ smart technology should intervene  

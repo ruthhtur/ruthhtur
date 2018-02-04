@@ -17,7 +17,7 @@ Examples of research designed and completed at early phases of product developme
 
 * [**Smart Technology Research**](/projects/smart-tech/) <br> Using longitudinal and co-creative methodology, working with users to understand what they'd like to augment or automate in their worklives, and what kind of relationship with technology best suits their goals.  
 
-* **Participatory Design Workshops with Creative Workers** <br> I ran workshops in 2016 where customers self-identified and ideated around their most difficult problems working with files and collaborators, helping to anchor the team around which problems were worth solving – and how.  
+* [**Participatory Design Workshops with Creative Workers**](/projects/nyc-codesign-workshops/) <br> I ran workshops in 2016 where customers self-identified and ideated around their most difficult problems working with files and collaborators, helping to anchor the team around which problems were worth solving – and how. 
 
 * **Review Workflows Rapid Workshopping** <br> A multi-month workshop approach to determine a design strategy for how Dropbox should approach review workflows as a whole, with collaborators in both San Francisco and New York. 
 
