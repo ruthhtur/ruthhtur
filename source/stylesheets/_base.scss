@@ -5,18 +5,7 @@
 }
 
 html {
-  // font: normal 100%/1.5 $font-stack; // 16
-  // font: normal 112.5%/1.5 $font-stack; // 18
   font: normal 131.25%/1.5 $font-stack; // 21
-
-  // opacity: 0;
-
-  -webkit-transition: all .1s easy-in-out;
-          transition: all .1s ease-in-out;
-
-  // &.wf-active {
-  //   opacity: 1;
-  // }
 }
 
 ::-moz-selection { background-color: $selection-color-bg; }
@@ -26,12 +15,12 @@ body {
   color: $text-color-fg;
   background-color: $page-color-bg;
   margin: 0;
-  padding: 0 0 300px 0;
+  padding: 0;
 }
 
 .page {
-  width: 784px;
-  padding: 0;
+  max-width: 784px;
+  padding: 0 1rem;
   margin: 0 auto;
 }
 
@@ -40,8 +29,13 @@ h1, h2, h3 {
 }
 
 h1.tester {
-  font-size: 72px;
+  font-size: 48px;
+  line-height: 1.25;
   color: $primary-color;
+  
+  @include break(not-small) {
+    font-size: 72px;
+  }
 }
 
 h1 {
@@ -94,8 +88,11 @@ header[role="banner"] {
   padding-top: 1rem;
   margin-bottom: 1rem;
   padding-bottom: .8rem;
+  text-align: center;
 
-  .mark, nav { display: inline; }
+  @include break(not-small) {
+    text-align: left;
+  }
 }
 
 .mark {
@@ -103,6 +100,12 @@ header[role="banner"] {
   font-size: .65em;
   text-transform: uppercase;
   letter-spacing: .1em;
+
+  display: block;
+
+  @include break(not-small) {
+    display: inline;
+  }
 }
 
 .wf-proximanovascosfextcond-n4-active .mark {
@@ -126,6 +129,11 @@ header[role="banner"] {
 
 nav {
   margin-left: $margin;
+  display: block;
+
+  @include break(not-small) {
+    display: inline;
+  }
 }
 
 nav a, nav a:visited {

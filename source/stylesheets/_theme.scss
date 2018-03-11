@@ -1,9 +1,6 @@
-//$font-stack: "chaparral-pro", georgia, sans-serif;
- $font-stack: "ff-tisa-web-pro", georgia, sans-serif;
-
+$font-stack: "ff-tisa-web-pro", georgia, sans-serif;
 $font-stack-ui-fallback: "helvetica neue", helvetica, sans-serif;
 $font-stack-ui: "proxima-nova-sc-osf-ext-cond", "helvetica neue", helvetica, sans-serif;
-
 $primary-color: rgb(46, 49, 64);
 $support-color: rgb(246, 175, 69);
 $complimentary-color: hsl(198, 82%, 51%);
@@ -12,14 +9,24 @@ $text-color-fg: rgb(46, 49, 64);
 $secondary-text-color-fg: hsla(0, 0%, 75%, 1);
 $selection-color-bg: hsla(55, 100%, 77%, 1);
 $page-color-bg: #fff;
-// $page-color-bg: $support-color;
-
-// $link-color-fg: #cc3333;
-// $link-color-fg: #f3c859;
 $link-color-fg: rgb(22, 147, 115);
-
-// $intro-color-bg: #f3c859;
 $intro-color-bg: $primary-color;
-// $intro-color-bg: #09c;
-
 $margin: 1rem;
+
+@mixin break($point) {
+  @if $point == not-small {
+    @media screen and (min-width: 30em) {
+      @content;
+    }
+  }
+  @else if $point == medium {
+    @media screen and (min-width: 30em) and (max-width: 60em) {
+      @content;
+    }
+  }
+  @else if $point == large {
+    @media screen and (min-width: 60em)  {
+      @content;
+    }
+  }
+}
