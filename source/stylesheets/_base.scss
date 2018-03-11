@@ -207,7 +207,9 @@ nav a + a {
 [role="main"] img {
   max-width: 100%;
   padding: 3px;
-  border: 1px solid $support-color;
+  // border: 1px solid $support-color;
+  // border: 1px solid $text-color-fg;
+  border: 1px solid $secondary-text-color-fg;
   border-radius: 3px;
 }
 
