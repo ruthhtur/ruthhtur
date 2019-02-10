@@ -1,7 +1,7 @@
 ---
 title: Work & experience
 ---
-#### Resume
+# Projects + Work: Resume
 
 
 _Creative, strategic design practitioner focused on design for good_  

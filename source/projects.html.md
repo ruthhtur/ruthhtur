@@ -8,8 +8,9 @@ Here's a few projects that represent the way I work. You can also [view my CV](/
 
 ## Conference Talks
 
-* _upcoming_ [**Pixel Up**](https://pixelup.co.za/) <br> Co-presenting and leading a workshop with [Jennifer Brook](http://jenniferbrook.com/) on how we've been using participatory design and co-creative practice at Dropbox.  
-* [**UX Strat USA**](http://www.uxstrat.com/usa/) <br> "Building Design Strategy at Dropbox: Co-Designing with Customers" on September 18, 2017.  [Slides](https://www.slideshare.net/UXSTRAT/ux-strat-usa-2017-ruth-buchanan-codesigning-dropbox-innovations-with-customers)
+* [**Product Camp, June 2018**](https://2018.productcamp.pl/) <br> Co-speaker and workshop facilitator with Jennifer Brook in June 2018 on co-creative methods and practice at Dropbox.  
+* [**Pixel Up, March 2018**](https://pixelup.co.za/) <br> Co-presented and lead a workshop with [Jennifer Brook](http://jenniferbrook.com/) on how we've been using participatory design and co-creative practice at Dropbox.  
+* [**UX Strat USA, September 2017**](http://www.uxstrat.com/usa/) <br> "Building Design Strategy at Dropbox: Co-Designing with Customers." [Slides](https://www.slideshare.net/UXSTRAT/ux-strat-usa-2017-ruth-buchanan-codesigning-dropbox-innovations-with-customers)
 
 
 ##Generative Design Research  
