@@ -2,7 +2,7 @@
 title: Projects
 ---
 
-# Projects & Work
+# Projects + Work
 
 Here's a few projects that represent the way I work. You can also [view my CV](/resume/).
 
